@@ -1,5 +1,11 @@
 # Change Log
 
+## 6.1.6
+
+### Patch Changes
+
+- [#6155](https://github.com/medusajs/medusa/pull/6155) [`db4da5602`](https://github.com/medusajs/medusa/commit/db4da56023c1c0563a545bffb2bec9cf0e1c4c4a) Thanks [@lukebui](https://github.com/lukebui)! - fix(@medusajs/medusa-js): correct invite resend path
+
 ## 6.1.5
 
 ### Patch Changes

@@ -1,5 +1,43 @@
 # @medusajs/types
 
+## 1.11.11
+
+### Patch Changes
+
+- [#6094](https://github.com/medusajs/medusa/pull/6094) [`68ddd866a`](https://github.com/medusajs/medusa/commit/68ddd866a5ff9414e2db5b80d75acc5e81948540) Thanks [@riqwan](https://github.com/riqwan)! - feat(utils,types): add registerUsages for promotion's computed actions
+
+- [#6152](https://github.com/medusajs/medusa/pull/6152) [`99045848f`](https://github.com/medusajs/medusa/commit/99045848fd3e863359c7878d9bc05271ed083a0e) Thanks [@riqwan](https://github.com/riqwan)! - feat(medusa,types,core-flows,utils): added delete endpoints for campaigns and promotions
+
+- [#6125](https://github.com/medusajs/medusa/pull/6125) [`af7af7374`](https://github.com/medusajs/medusa/commit/af7af737455daa0f330840a9678e6339e519dfe6) Thanks [@riqwan](https://github.com/riqwan)! - feat(medusa,utils): added campaign get endpoints
+
+- [#6092](https://github.com/medusajs/medusa/pull/6092) [`fc6b1772a`](https://github.com/medusajs/medusa/commit/fc6b1772a71582bb48602c5cac7b2297e9d267a9) Thanks [@fPolic](https://github.com/fPolic)! - feat: Payment Module service interface
+
+- [#6127](https://github.com/medusajs/medusa/pull/6127) [`5e655dd59`](https://github.com/medusajs/medusa/commit/5e655dd59bda4ffface28db38021ba71cae6de10) Thanks [@adrien2p](https://github.com/adrien2p)! - chore: Hide repository creation if they are not custom + add upsert support by default
+
+- [#6114](https://github.com/medusajs/medusa/pull/6114) [`b132ff766`](https://github.com/medusajs/medusa/commit/b132ff76693148b3a06373c168e8dd5e02970757) Thanks [@olivermrbl](https://github.com/olivermrbl)! - Add line items in cart creation
+
+- [#6077](https://github.com/medusajs/medusa/pull/6077) [`e28fa7fbd`](https://github.com/medusajs/medusa/commit/e28fa7fbdf45c5b1fa19848db731132a0bf1757d) Thanks [@riqwan](https://github.com/riqwan)! - feat(types): add campaign + promotion operations
+
+- [#6110](https://github.com/medusajs/medusa/pull/6110) [`a12c28b7d`](https://github.com/medusajs/medusa/commit/a12c28b7d5faed733bebbb4963dff50b9c8a33bc) Thanks [@riqwan](https://github.com/riqwan)! - feat(medusa,types): add promotion list and get endpoint
+
+- [#6050](https://github.com/medusajs/medusa/pull/6050) [`b782d3bcb`](https://github.com/medusajs/medusa/commit/b782d3bcb7e8088a962584b9a55200dd29c2161c) Thanks [@riqwan](https://github.com/riqwan)! - feat(utils,types): added item/shipping adjustments for order/items/shipping_methods
+
+- [#6101](https://github.com/medusajs/medusa/pull/6101) [`7f7cb2a26`](https://github.com/medusajs/medusa/commit/7f7cb2a263c26baf540b05a40ab3732ffeb0c73c) Thanks [@olivermrbl](https://github.com/olivermrbl)! - feat(cart): Shipping methods
+
+- [#6055](https://github.com/medusajs/medusa/pull/6055) [`ce81cade8`](https://github.com/medusajs/medusa/commit/ce81cade887659cefe9638e3c1c2807378191c62) Thanks [@olivermrbl](https://github.com/olivermrbl)! - feat(cart): Add CartService and AddressService
+
+- [#6119](https://github.com/medusajs/medusa/pull/6119) [`fd78f5e24`](https://github.com/medusajs/medusa/commit/fd78f5e24263f5e158c3b7d11fbf0a4436e9c17a) Thanks [@olivermrbl](https://github.com/olivermrbl)! - feat(cart): Shipping method adjustments
+
+- [#6012](https://github.com/medusajs/medusa/pull/6012) [`192bc336c`](https://github.com/medusajs/medusa/commit/192bc336cc2b6ec3820d94524c046dcd3c4ac7d9) Thanks [@olivermrbl](https://github.com/olivermrbl)! - feat(cart): Partial module service implementation
+
+- [#6112](https://github.com/medusajs/medusa/pull/6112) [`06b33a9b4`](https://github.com/medusajs/medusa/commit/06b33a9b4525b77b1b14b35b973209700945654e) Thanks [@olivermrbl](https://github.com/olivermrbl)! - feat(cart): Line item adjustments
+
+- [#6087](https://github.com/medusajs/medusa/pull/6087) [`130c641e5`](https://github.com/medusajs/medusa/commit/130c641e5c91cf831de64fb87aebbfdc4d23530d) Thanks [@adrien2p](https://github.com/adrien2p)! - chore: Abstract module services
+
+- [#6063](https://github.com/medusajs/medusa/pull/6063) [`fade8ea7b`](https://github.com/medusajs/medusa/commit/fade8ea7bf560343ecbde116d226ac44053cdb8e) Thanks [@riqwan](https://github.com/riqwan)! - feat(utils,types): campaigns and campaign budgets + services CRUD
+
+- [#6059](https://github.com/medusajs/medusa/pull/6059) [`8472460f5`](https://github.com/medusajs/medusa/commit/8472460f533322cc4535199aa768ac163021bc79) Thanks [@fPolic](https://github.com/fPolic)! - feat: add Payment module package
+
 ## 1.11.10
 
 ### Patch Changes
