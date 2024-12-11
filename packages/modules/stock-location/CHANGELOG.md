@@ -1,5 +1,11 @@
 # @medusajs/stock-location
 
+## 2.1.2
+
+### Patch Changes
+
+- [#10471](https://github.com/medusajs/medusa/pull/10471) [`4ad9ac1e5f3b583514015ffd35b88d0f60b2b38a`](https://github.com/medusajs/medusa/commit/4ad9ac1e5f3b583514015ffd35b88d0f60b2b38a) Thanks [@thetutlage](https://github.com/thetutlage)! - refactor: migration stock location module
+
 ## 2.1.1
 
 ## 2.1.0

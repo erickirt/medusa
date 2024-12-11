@@ -1,5 +1,16 @@
 # @medusajs/utils
 
+## 2.1.2
+
+### Patch Changes
+
+- [#10499](https://github.com/medusajs/medusa/pull/10499) [`16d27ea6e4c2e4290820fe2328f08557534fcb8f`](https://github.com/medusajs/medusa/commit/16d27ea6e4c2e4290820fe2328f08557534fcb8f) Thanks [@thetutlage](https://github.com/thetutlage)! - Feat/customer dml
+
+- [#10410](https://github.com/medusajs/medusa/pull/10410) [`fad85a9d293acee1dae784afa223a080b9b8b85b`](https://github.com/medusajs/medusa/commit/fad85a9d293acee1dae784afa223a080b9b8b85b) Thanks [@thetutlage](https://github.com/thetutlage)! - refactor: migrate promotion module
+
+- Updated dependencies [[`16d27ea6e4c2e4290820fe2328f08557534fcb8f`](https://github.com/medusajs/medusa/commit/16d27ea6e4c2e4290820fe2328f08557534fcb8f)]:
+  - @medusajs/types@2.1.2
+
 ## 2.1.1
 
 ### Patch Changes

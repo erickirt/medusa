@@ -1,5 +1,11 @@
 # @medusajs/payment
 
+## 2.1.2
+
+### Patch Changes
+
+- [#10553](https://github.com/medusajs/medusa/pull/10553) [`0264294ab55fc34a728834b5d217e0c8a7bf5a90`](https://github.com/medusajs/medusa/commit/0264294ab55fc34a728834b5d217e0c8a7bf5a90) Thanks [@carlos-r-l-rodrigues](https://github.com/carlos-r-l-rodrigues)! - Payment module DML
+
 ## 2.1.1
 
 ### Patch Changes

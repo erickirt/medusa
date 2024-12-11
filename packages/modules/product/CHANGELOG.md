@@ -1,5 +1,11 @@
 # @medusajs/product
 
+## 2.1.2
+
+### Patch Changes
+
+- [#10535](https://github.com/medusajs/medusa/pull/10535) [`16192d9b3077e36c6b1df7409a0c0f26f643cc6d`](https://github.com/medusajs/medusa/commit/16192d9b3077e36c6b1df7409a0c0f26f643cc6d) Thanks [@kasperkristensen](https://github.com/kasperkristensen)! - fix(product): Only apply default order to products if user has not specified an order
+
 ## 2.1.1
 
 ## 2.1.0

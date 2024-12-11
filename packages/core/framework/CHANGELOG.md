@@ -1,5 +1,17 @@
 # @medusajs/framework
 
+## 2.1.2
+
+### Patch Changes
+
+- Updated dependencies [[`16d27ea6e4c2e4290820fe2328f08557534fcb8f`](https://github.com/medusajs/medusa/commit/16d27ea6e4c2e4290820fe2328f08557534fcb8f), [`fad85a9d293acee1dae784afa223a080b9b8b85b`](https://github.com/medusajs/medusa/commit/fad85a9d293acee1dae784afa223a080b9b8b85b)]:
+  - @medusajs/types@2.1.2
+  - @medusajs/utils@2.1.2
+  - @medusajs/modules-sdk@2.1.2
+  - @medusajs/orchestration@2.1.2
+  - @medusajs/workflows-sdk@2.1.2
+  - @medusajs/telemetry@2.1.2
+
 ## 2.1.1
 
 ### Patch Changes

@@ -1,5 +1,11 @@
 # @medusajs/promotion
 
+## 2.1.2
+
+### Patch Changes
+
+- [#10410](https://github.com/medusajs/medusa/pull/10410) [`fad85a9d293acee1dae784afa223a080b9b8b85b`](https://github.com/medusajs/medusa/commit/fad85a9d293acee1dae784afa223a080b9b8b85b) Thanks [@thetutlage](https://github.com/thetutlage)! - refactor: migrate promotion module
+
 ## 2.1.1
 
 ### Patch Changes
