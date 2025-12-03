@@ -1,5 +1,14 @@
 # @medusajs/order
 
+## 2.12.1
+
+### Patch Changes
+
+- [#14164](https://github.com/medusajs/medusa/pull/14164) [`ef162f8b5ff32c9ce779119eb8eabffea62655be`](https://github.com/medusajs/medusa/commit/ef162f8b5ff32c9ce779119eb8eabffea62655be) Thanks [@NicolasGorga](https://github.com/NicolasGorga)! - fix(order): Add composite unique index on order_item version:item_id
+
+- Updated dependencies []:
+  - @medusajs/framework@2.12.1
+
 ## 2.12.0
 
 ### Patch Changes

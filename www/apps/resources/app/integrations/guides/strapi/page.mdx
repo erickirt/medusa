@@ -1641,10 +1641,10 @@ import { createOptionsInStrapiStep } from "./steps/create-options-in-strapi"
 import { useQueryGraphStep } from "@medusajs/medusa/core-flows"
 import { 
   CreateOptionValuesInStrapiInput, 
-  createOptionValuesInStrapiStep
+  createOptionValuesInStrapiStep,
 } from "./steps/create-option-values-in-strapi"
 import { 
-  updateProductOptionValuesMetadataStep
+  updateProductOptionValuesMetadataStep,
 } from "./steps/update-product-option-values-metadata"
 
 export type CreateOptionsInStrapiWorkflowInput = {
@@ -2121,7 +2121,7 @@ export const createVariantsInStrapiWorkflow = createWorkflow(
     })
 
     const strapiVariants = when({ 
-      variants
+      variants,
     }, (data) => !!(data.variants[0].product as any)?.strapi_product)
       .then(() => {
         const variantImages = transform({ 
@@ -2158,7 +2158,7 @@ export const createVariantsInStrapiWorkflow = createWorkflow(
         const variantsData = transform({ 
           variants, 
           strapiVariantImages, 
-          strapiVariantThumbnail
+          strapiVariantThumbnail,
         }, (data) => {
           const varData = data.variants.map((variant) => ({
             id: variant.id,
@@ -2939,7 +2939,7 @@ export const handleStrapiWebhookWorkflow = createWorkflow(
         const variants = updateProductVariantsWorkflow.runAsStep({
           input: {
             product_variants: [
-              preparedData.data as unknown as UpsertProductVariantDTO
+              preparedData.data as unknown as UpsertProductVariantDTO,
             ],
           },
         })
@@ -2988,7 +2988,7 @@ export const handleStrapiWebhookWorkflow = createWorkflow(
         // Clear the product cache for all affected products
         const productIds = transform({ variants }, (data) => {
           const uniqueProductIds = [
-            ...new Set(data.variants.map((v) => v.product_id))
+            ...new Set(data.variants.map((v) => v.product_id)),
           ]
           return uniqueProductIds as string[]
         })
@@ -3815,7 +3815,7 @@ Then, find the `Text` component wrapping the `{product.description}` and replace
 >
   <Markdown 
     allowedElements={[
-      "p", "ul", "ol", "li", "strong", "em", "blockquote", "hr", "br", "a"
+      "p", "ul", "ol", "li", "strong", "em", "blockquote", "hr", "br", "a",
     ]}
     unwrapDisallowed
   >

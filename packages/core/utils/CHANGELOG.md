@@ -1,5 +1,14 @@
 # @medusajs/utils
 
+## 2.12.1
+
+### Patch Changes
+
+- [#14196](https://github.com/medusajs/medusa/pull/14196) [`391d8dc6cd50c79b678059fdeb7774a72e243143`](https://github.com/medusajs/medusa/commit/391d8dc6cd50c79b678059fdeb7774a72e243143) Thanks [@adrien2p](https://github.com/adrien2p)! - fix(): event emitting
+
+- Updated dependencies []:
+  - @medusajs/deps@2.12.1
+
 ## 2.12.0
 
 ### Patch Changes

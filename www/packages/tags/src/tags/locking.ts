@@ -76,6 +76,10 @@ export const locking = [
     "path": "https://docs.medusajs.com/resources/references/medusa-workflows/cancelDraftOrderEditWorkflow"
   },
   {
+    "title": "computeDraftOrderAdjustmentsWorkflow",
+    "path": "https://docs.medusajs.com/resources/references/medusa-workflows/computeDraftOrderAdjustmentsWorkflow"
+  },
+  {
     "title": "confirmDraftOrderEditWorkflow",
     "path": "https://docs.medusajs.com/resources/references/medusa-workflows/confirmDraftOrderEditWorkflow"
   },
@@ -124,6 +128,10 @@ export const locking = [
     "path": "https://docs.medusajs.com/resources/references/medusa-workflows/updateDraftOrderWorkflow"
   },
   {
+    "title": "markFulfillmentAsDeliveredWorkflow",
+    "path": "https://docs.medusajs.com/resources/references/medusa-workflows/markFulfillmentAsDeliveredWorkflow"
+  },
+  {
     "title": "adjustInventoryLevelsStep",
     "path": "https://docs.medusajs.com/resources/references/medusa-workflows/steps/adjustInventoryLevelsStep"
   },
@@ -162,6 +170,14 @@ export const locking = [
   {
     "title": "createOrderFulfillmentWorkflow",
     "path": "https://docs.medusajs.com/resources/references/medusa-workflows/createOrderFulfillmentWorkflow"
+  },
+  {
+    "title": "markOrderFulfillmentAsDeliveredWorkflow",
+    "path": "https://docs.medusajs.com/resources/references/medusa-workflows/markOrderFulfillmentAsDeliveredWorkflow"
+  },
+  {
+    "title": "processPaymentWorkflow",
+    "path": "https://docs.medusajs.com/resources/references/medusa-workflows/processPaymentWorkflow"
   },
   {
     "title": "createReservationsStep",

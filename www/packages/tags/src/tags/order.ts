@@ -136,6 +136,10 @@ export const order = [
     "path": "https://docs.medusajs.com/resources/references/medusa-workflows/cancelDraftOrderEditWorkflow"
   },
   {
+    "title": "computeDraftOrderAdjustmentsWorkflow",
+    "path": "https://docs.medusajs.com/resources/references/medusa-workflows/computeDraftOrderAdjustmentsWorkflow"
+  },
+  {
     "title": "confirmDraftOrderEditWorkflow",
     "path": "https://docs.medusajs.com/resources/references/medusa-workflows/confirmDraftOrderEditWorkflow"
   },
@@ -404,6 +408,10 @@ export const order = [
     "path": "https://docs.medusajs.com/resources/references/medusa-workflows/completeOrderWorkflow"
   },
   {
+    "title": "computeAdjustmentsForPreviewWorkflow",
+    "path": "https://docs.medusajs.com/resources/references/medusa-workflows/computeAdjustmentsForPreviewWorkflow"
+  },
+  {
     "title": "confirmClaimRequestWorkflow",
     "path": "https://docs.medusajs.com/resources/references/medusa-workflows/confirmClaimRequestWorkflow"
   },
@@ -494,6 +502,10 @@ export const order = [
   {
     "title": "maybeRefreshShippingMethodsWorkflow",
     "path": "https://docs.medusajs.com/resources/references/medusa-workflows/maybeRefreshShippingMethodsWorkflow"
+  },
+  {
+    "title": "onCarryPromotionsFlagSet",
+    "path": "https://docs.medusajs.com/resources/references/medusa-workflows/onCarryPromotionsFlagSet"
   },
   {
     "title": "orderClaimAddNewItemWorkflow",
@@ -602,6 +614,10 @@ export const order = [
   {
     "title": "updateOrderChangeActionsWorkflow",
     "path": "https://docs.medusajs.com/resources/references/medusa-workflows/updateOrderChangeActionsWorkflow"
+  },
+  {
+    "title": "updateOrderChangeWorkflow",
+    "path": "https://docs.medusajs.com/resources/references/medusa-workflows/updateOrderChangeWorkflow"
   },
   {
     "title": "updateOrderChangesWorkflow",

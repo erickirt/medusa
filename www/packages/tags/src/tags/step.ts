@@ -540,6 +540,10 @@ export const step = [
     "path": "https://docs.medusajs.com/resources/references/medusa-workflows/steps/deleteReturnsStep"
   },
   {
+    "title": "listOrderChangeActionsByTypeStep",
+    "path": "https://docs.medusajs.com/resources/references/medusa-workflows/steps/listOrderChangeActionsByTypeStep"
+  },
+  {
     "title": "previewOrderChangeStep",
     "path": "https://docs.medusajs.com/resources/references/medusa-workflows/steps/previewOrderChangeStep"
   },
@@ -858,6 +862,10 @@ export const step = [
   {
     "title": "updateReturnValidationStep",
     "path": "https://docs.medusajs.com/resources/references/medusa-workflows/updateReturnValidationStep"
+  },
+  {
+    "title": "validateCarryPromotionsFlagStep",
+    "path": "https://docs.medusajs.com/resources/references/medusa-workflows/validateCarryPromotionsFlagStep"
   },
   {
     "title": "validateOrderCreditLinesStep",

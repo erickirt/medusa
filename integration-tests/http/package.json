@@ -1,6 +1,6 @@
 {
   "name": "integration-tests-http",
-  "version": "1.0.30",
+  "version": "1.0.31",
   "main": "index.js",
   "license": "MIT",
   "private": true,
@@ -16,6 +16,7 @@
     "@medusajs/core-flows": "workspace:*",
     "@medusajs/customer": "workspace:^",
     "@medusajs/event-bus-local": "workspace:*",
+    "@medusajs/event-bus-redis": "workspace:*",
     "@medusajs/framework": "workspace:*",
     "@medusajs/fulfillment": "workspace:^",
     "@medusajs/fulfillment-manual": "workspace:^",
