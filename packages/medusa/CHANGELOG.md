@@ -1,5 +1,69 @@
 # Change Log
 
+## 2.21.2
+
+### Patch Changes
+
+- [#16908](https://github.com/medusajs/medusa/pull/16908) [`989880a6c51f3659453473b2a5b068e83ce4fc78`](https://github.com/medusajs/medusa/commit/989880a6c51f3659453473b2a5b068e83ce4fc78) Thanks [@Dextheking1](https://github.com/Dextheking1)! - fix(@medusajs/utils, @medusajs/medusa): correct misspelled parameter name in getSetDifference
+
+- Updated dependencies []:
+  - @medusajs/framework@2.21.2
+  - @medusajs/event-bus-redis@2.21.2
+  - @medusajs/draft-order@2.21.2
+  - @medusajs/core-flows@2.21.2
+  - @medusajs/analytics@2.21.2
+  - @medusajs/api-key@2.21.2
+  - @medusajs/auth@2.21.2
+  - @medusajs/cache-inmemory@2.21.2
+  - @medusajs/cache-redis@2.21.2
+  - @medusajs/caching@2.21.2
+  - @medusajs/cart@2.21.2
+  - @medusajs/currency@2.21.2
+  - @medusajs/customer@2.21.2
+  - @medusajs/event-bus-local@2.21.2
+  - @medusajs/file@2.21.2
+  - @medusajs/fulfillment@2.21.2
+  - @medusajs/index@2.21.2
+  - @medusajs/inventory@2.21.2
+  - @medusajs/link-modules@2.21.2
+  - @medusajs/locking@2.21.2
+  - @medusajs/notification@2.21.2
+  - @medusajs/order@2.21.2
+  - @medusajs/payment@2.21.2
+  - @medusajs/pricing@2.21.2
+  - @medusajs/product@2.21.2
+  - @medusajs/promotion@2.21.2
+  - @medusajs/analytics-local@2.21.2
+  - @medusajs/analytics-posthog@2.21.2
+  - @medusajs/auth-emailpass@2.21.2
+  - @medusajs/auth-github@2.21.2
+  - @medusajs/auth-google@2.21.2
+  - @medusajs/auth-oidc@2.21.2
+  - @medusajs/caching-redis@2.21.2
+  - @medusajs/file-local@2.21.2
+  - @medusajs/file-s3@2.21.2
+  - @medusajs/fulfillment-manual@2.21.2
+  - @medusajs/locking-postgres@2.21.2
+  - @medusajs/locking-redis@2.21.2
+  - @medusajs/notification-local@2.21.2
+  - @medusajs/notification-sendgrid@2.21.2
+  - @medusajs/payment-stripe@2.21.2
+  - @medusajs/search-postgres@2.21.2
+  - @medusajs/rbac@2.21.2
+  - @medusajs/region@2.21.2
+  - @medusajs/sales-channel@2.21.2
+  - @medusajs/search@2.21.2
+  - @medusajs/settings@2.21.2
+  - @medusajs/stock-location@2.21.2
+  - @medusajs/store@2.21.2
+  - @medusajs/tax@2.21.2
+  - @medusajs/translation@2.21.2
+  - @medusajs/user@2.21.2
+  - @medusajs/workflow-engine-inmemory@2.21.2
+  - @medusajs/workflow-engine-redis@2.21.2
+  - @medusajs/admin-bundler@2.21.2
+  - @medusajs/telemetry@2.21.2
+
 ## 2.21.1
 
 ### Patch Changes
