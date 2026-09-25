@@ -1,5 +1,14 @@
 # @medusajs/utils
 
+## 2.21.2
+
+### Patch Changes
+
+- [#16908](https://github.com/medusajs/medusa/pull/16908) [`989880a6c51f3659453473b2a5b068e83ce4fc78`](https://github.com/medusajs/medusa/commit/989880a6c51f3659453473b2a5b068e83ce4fc78) Thanks [@Dextheking1](https://github.com/Dextheking1)! - fix(@medusajs/utils, @medusajs/medusa): correct misspelled parameter name in getSetDifference
+
+- Updated dependencies []:
+  - @medusajs/deps@2.21.2
+
 ## 2.21.1
 
 ### Patch Changes
